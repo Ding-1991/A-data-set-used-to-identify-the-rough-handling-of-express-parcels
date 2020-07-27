@@ -1,0 +1,15 @@
+This data set is mainly used for the training and testing of the identification model for the rough handling of express parcels.
+The data set contains samples of 4 common types of express parcel processing, namely normal operation, dropping, kicking and throwing.
+The total number of samples in the data set is 2535. And all labels are manually marked.
+In addition to category labels, the data set also provides some additional information, such as package size, drop height, etc., to provide support for other studies.
+The format of the data in the dataset is mat. You can use matlab, python to read.
+Each sample corresponds to a mat file, which is a 3¡ÁN matrix. 3 corresponds to the 3 axis x, y, z. N corresponds to the sampling point.
+The data of all samples have some redundancy, so that other researchers can use their own methods to intercept data.
+Samples of different categories are placed in different folders.
+This data set will be continuously expanded and updated.
+If you have any questions, you can communicate with me via the following email: 1056893775@qq.com.
+I hope this data set can help your research.
+
+
+
+
